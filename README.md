@@ -34,5 +34,5 @@ Install all node modules with npm
 ## Admin url
 paste this url in the browser to access admin
 ```bash
- localhost:3000/admin-portal
+ https://elearningwebsite.onrender.com/admin-portal
 ```
